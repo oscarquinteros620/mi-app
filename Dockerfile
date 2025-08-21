@@ -1,4 +1,4 @@
-# Imagen base con Node
+# Imagen base de Node
 FROM node:18
 
 # Carpeta de trabajo dentro del contenedor
